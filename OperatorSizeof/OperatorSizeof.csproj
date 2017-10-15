@@ -8,7 +8,7 @@
     <ProjectGuid>{5C81DEC8-E5DC-4AA6-AFCD-6744C929AF4A}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>OperatorSizeof</RootNamespace>
+    <RootNamespace>Vsite.Csharp.TipoviOperatori</RootNamespace>
     <AssemblyName>OperatorSizeof</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

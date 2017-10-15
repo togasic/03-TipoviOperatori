@@ -8,7 +8,7 @@
     <ProjectGuid>{59231B48-2DD2-4C7A-A738-42A6FA7F1F55}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>OperatorIs</RootNamespace>
+    <RootNamespace>Vsite.Csharp.TipoviOperatori</RootNamespace>
     <AssemblyName>OperatorIs</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

@@ -8,7 +8,7 @@
     <ProjectGuid>{884864D0-52DF-49FA-8B80-2AE72B9A55C7}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>UgradjeniTipoviInicijalizacija</RootNamespace>
+    <RootNamespace>Vsite.Csharp.TipoviOperatori</RootNamespace>
     <AssemblyName>UgradjeniTipoviInicijalizacija</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

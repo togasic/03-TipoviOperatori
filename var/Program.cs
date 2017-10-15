@@ -1,5 +1,5 @@
 ﻿
-namespace CSharp.TipoviOperatori
+namespace Vsite.CSharp.TipoviOperatori
 {
     struct S
     {

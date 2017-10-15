@@ -8,7 +8,7 @@
     <ProjectGuid>{B5716558-15BC-4A4D-B2B0-69A7CE9ED7FF}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>PridruzivanjeBazniIzvedeni</RootNamespace>
+    <RootNamespace>Vsite.Csharp.TipoviOperatori</RootNamespace>
     <AssemblyName>PridruzivanjeBazniIzvedeni</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <TargetFrameworkProfile>

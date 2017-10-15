@@ -7,7 +7,7 @@
     <ProjectGuid>{DCF83421-563E-4F52-B0B4-47487EB8BD35}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>NumeričkaPromocija</RootNamespace>
+    <RootNamespace>Vsite.Csharp.TipoviOperatori</RootNamespace>
     <AssemblyName>NumeričkaPromocija</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

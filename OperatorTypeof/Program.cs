@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Reflection;
 
-namespace CSharp.TipoviOperatori
+namespace Vsite.CSharp.TipoviOperatori
 {
     class Program
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CSharp.TipoviOperatori
+namespace Vsite.CSharp.TipoviOperatori
 {
     class Program
     {

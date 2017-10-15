@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CSharp.UgrađeniBrojčaniTipovi
+namespace Vsite.Csharp.TipoviOperatori
 {
     class Program
     {
