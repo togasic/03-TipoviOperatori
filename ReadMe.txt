@@ -2,7 +2,7 @@ TipoviOperatori
 ===============
 
 
-UgradjeniTipoviIL
+UgrađeniTipoviIL
 -----------------
 Primjer kojim se može pokazati da svi ugradjeni tipovi osim decimal imaju 
 izravne ekvivalente u IL-u.
