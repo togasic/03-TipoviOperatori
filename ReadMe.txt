@@ -22,10 +22,10 @@ ZADATAK 1: Inicijalizirati varijablu tipa int pozivom podrazumijevanog
 
 ZADATAK 2: Inicijalizirati drugu varijablu tipa int pozivom 
            konstruktora koji kao argument prima broj 4. 
-		   Provjeriti dozvoljava li to prevoditelj.
+           Provjeriti dozvoljava li to prevoditelj.
 
 ZADATAK 3: Inicijalizirati varijablu tipa string pozivom podrazumijevanog
-           konstruktora. Provjeriti dozvoljava li to prevoditelj.
+           konstruktora. Provjeriti dozvoljava li to prevoditelj. 
 
 ZADATAK 4: Napisati kod koji inicijalizira novu varijablu tipa string 
            na vrijednost "string 1".
@@ -71,7 +71,7 @@ Primjer korištenja i inicijalizacije nulabilnih tipova.
 
 ZADATAK 1: Dodati u Program.Main naredbu kojom se vrijednost nulabilnog
            tipa double postavlja na null referencu te ispisati nakon toga
-		   sadržaj varijable.
+           sadržaj varijable.
 
 ZADATAK 2: Ponoviti to isto za (ne-nulabilnu) varijablu tipa double.
 
@@ -89,23 +89,23 @@ U metodi Program.Main:
 ZADATAK 1: Dodati varijablu "i0" tipa var i inicijalizirati ju nekim cijelim 
            brojem.
            Dodati varijablu "d0" tipa var i inicijalizirati ju nekim decimalnim 
-		   brojem.
-		   Dodati naredbu:
-		   i0 = d0;
-		   te provjeriti prihvaća li prevoditelj tu naredbu.
+           brojem.
+           Dodati naredbu:
+           i0 = d0;
+           te provjeriti prihvaća li prevoditelj tu naredbu.
 
 ZADATAK 2: Dodati varijablu "i1" tipa int i inicijalizirati ju istim cijelim 
            brojem kao varijablu i0.
-		   Dodati varijablu "d1" tipa double i inicijalizirati ju istim cijelim 
+           Dodati varijablu "d1" tipa double i inicijalizirati ju istim cijelim 
            brojem kao varijablu d0.
-		   Prevesti kod i usporediti kod naredbi za inicijalizacije varijabli
-		   i0 i d0, odnosno i1 i d1.
+           Prevesti kod i usporediti kod naredbi za inicijalizacije varijabli
+           i0 i d0, odnosno i1 i d1.
 
 ZADATAK 3: Deklarirati varijablu "s" tipa var i inicijalizirati ju pozivom
            konstruktora strukture S definirane u istoj datoteci.
-		   Napisati naredbe za postavljanje vrijednosti polja a i b
-		   u toj strukturi na proizvoljne vrijednosti i provjeriti
-		   da li se kod može prevesti.
+           Napisati naredbe za postavljanje vrijednosti polja a i b
+           u toj strukturi na proizvoljne vrijednosti i provjeriti
+           da li se kod može prevesti.
          
 
 PridruživanjeBazniIzvedeni
@@ -117,8 +117,8 @@ ZADATAK 1: Dodajte u metodu Program.Main pozive svih mogućih metoda nad
 
 ZADATAK 2: Deklarirajte objekt tipa Student i pokušajte ga instancirati 
            pozivom konstruktora tipa Osoba. Provjerite što prevoditelj 
-		   javlja. 
-		  
+           javlja. 
+          
 
 Pretvorba
 ---------
@@ -126,7 +126,7 @@ Ilustracija kada se smije koristiti operator cast.
 
 ZADATAK 1: Provjeriti za koja pridruživanja u metodi Program.Main se smije  
            staviti operator pretvorbe da prevoditelj ne bi prijavio pogrešku
-		   a da pri izvođenju ne bude bačena iznimka.
+           a da pri izvođenju ne bude bačena iznimka.
 
 ZADATAK 2: Za svaki objekt dodati pozive svih mogućih metoda.
 
@@ -159,7 +159,7 @@ ZADATAK 1: Napisati naredbe kojima će se ispisati duljina podatka tipa decimal
 
 ZADATAK 2: Napisati naredbe kojima će se ispisati duljina podatka tipa 
            MojaStruktura (koja ima samo dva polja) i podatka tipa 
-		   MojaSloženaStruktura (koja uz dva polja ima i metodu).
+           MojaSloženaStruktura (koja uz dva polja ima i metodu).
            Usporediti rezultate ispisa.
 
 ZADATAK 3: Napisati naredbu kojom će se ispisati duljina podatka tipa 
