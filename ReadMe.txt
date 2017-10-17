@@ -25,7 +25,7 @@ ZADATAK 2: Inicijalizirati drugu varijablu tipa int pozivom
 		   Provjeriti dozvoljava li to prevoditelj.
 
 ZADATAK 3: Inicijalizirati varijablu tipa string pozivom podrazumijevanog
-           konstruktora. Provjeriti dozvoljava li to prevoditelj.
+           konstruktora. Provjeriti dozvoljava li to prevoditelj. 
 
 ZADATAK 4: Napisati kod koji inicijalizira novu varijablu tipa string 
            na vrijednost "string 1".
